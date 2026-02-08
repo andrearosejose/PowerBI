@@ -35,7 +35,7 @@ DASHBOARD PREVIEW
 
 Main Dashboard Screenshot (embedded in README.md version):
 
-![Main Dashboard](Screenshot/Screenshot 2026-02-08 223435.png)
+![Main Dashboard](screenshots/Screenshot%202026-02-08%20213444.png)
 
 Note:
 The image above is embedded in the Markdown README.md file.
