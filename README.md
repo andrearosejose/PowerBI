@@ -37,10 +37,6 @@ Main Dashboard Screenshot (embedded in README.md version):
 
 ![Main Dashboard](Screenshot/Screenshot%202026-02-08%20223435.png)
 
-Note:
-The image above is embedded in the Markdown README.md file.
-For this TXT version, the image file is referenced by path only.
-
 
 KEY FEATURES
 
